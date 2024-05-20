@@ -36,6 +36,7 @@
   * [🔧 指令 - 常用指令](zhi-ling-ji-chu-zhi-shi/zhi-ling-chang-yong-zhi-ling.md)
   * [🤷 指令 - 查找物品](zhi-ling-ji-chu-zhi-shi/zhi-ling-cha-zhao-wu-pin.md)
   * [🤯 指令 - 更多头颅！](zhi-ling-ji-chu-zhi-shi/zhi-ling-geng-duo-tou-lu.md)
+* [🎵 指令 - 红石电台](zhi-ling-hong-shi-dian-tai.md)
 * [附魔 - 基础知识](fu-mo-ji-chu-zhi-shi/README.md)
   * [📓 附魔 - 古书](fu-mo-ji-chu-zhi-shi/fu-mo-gu-shu.md)
   * [📙 附魔 - 知识卷轴](fu-mo-ji-chu-zhi-shi/fu-mo-zhi-shi-juan-zhou.md)
