@@ -1,5 +1,5 @@
 ---
-description: 治国安邦之本——law
+description: 治国安邦之本
 ---
 
 # 📝 基本守则

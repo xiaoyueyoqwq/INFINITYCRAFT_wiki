@@ -49,7 +49,7 @@
   * [🗿 交易所村民优化](group-2/kuo-zhan-tan-suo-nei-rong/jiao-yi-suo-cun-min-you-hua.md)
   * [🥵 设置图片](group-2/kuo-zhan-tan-suo-nei-rong/she-zhi-tu-pian.md)
   * [🔮 快问快答](group-2/kuo-zhan-tan-suo-nei-rong/kuai-wen-kuai-da.md)
-  * [👬 组织称号](group-2/kuo-zhan-tan-suo-nei-rong/zu-zhi-cheng-hao.md)
+  * [👬 社区公会申请事项](group-2/kuo-zhan-tan-suo-nei-rong/she-qu-gong-hui-shen-qing-shi-xiang.md)
   * [〽️ 关于服务器 PRO 会员？](group-2/kuo-zhan-tan-suo-nei-rong/guan-yu-fu-wu-qi-pro-hui-yuan.md)
 
 ## Group 3
