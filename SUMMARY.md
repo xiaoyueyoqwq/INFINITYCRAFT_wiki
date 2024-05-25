@@ -3,6 +3,7 @@
 * [🎯 欢迎访问INFINITYCRAFT社区文档](README.md)
 * [⛔ 封禁榜 (开户记录)](feng-jin-bang-kai-hu-ji-lu.md)
 * [💾 前置模组 (必看)](qian-zhi-mo-zu-bi-kan.md)
+* [〽️ 关于服务器 PRO 会员？](guan-yu-fu-wu-qi-pro-hui-yuan.md)
 
 ## Group 1
 
@@ -17,7 +18,6 @@
   * [💡 玩法 - 总介绍](wan-fa-ji-chu-zhi-shi/wan-fa-zong-jie-shao.md)
   * [🎆 玩法 - 烟花](wan-fa-ji-chu-zhi-shi/wan-fa-yan-hua.md)
   * [🪛 玩法 - 铜制品](wan-fa-ji-chu-zhi-shi/wan-fa-tong-zhi-pin.md)
-  * [🔞 玩法 - 发送图片](wan-fa-ji-chu-zhi-shi/wan-fa-fa-song-tu-pian.md)
   * [🥹 玩法 - 玩偶！](wan-fa-ji-chu-zhi-shi/wan-fa-wan-ou.md)
   * [🪚 玩法 - 抹刀](wan-fa-ji-chu-zhi-shi/wan-fa-mo-dao.md)
   * [🪒 玩法 - 锉刀](wan-fa-ji-chu-zhi-shi/wan-fa-cuo-dao.md)
@@ -36,6 +36,7 @@
   * [🔧 指令 - 常用指令](zhi-ling-ji-chu-zhi-shi/zhi-ling-chang-yong-zhi-ling.md)
   * [🤷 指令 - 查找物品](zhi-ling-ji-chu-zhi-shi/zhi-ling-cha-zhao-wu-pin.md)
   * [🤯 指令 - 更多头颅！](zhi-ling-ji-chu-zhi-shi/zhi-ling-geng-duo-tou-lu.md)
+  * [🔞 指令 - 发送图片](zhi-ling-ji-chu-zhi-shi/zhi-ling-fa-song-tu-pian.md)
   * [🎵 指令 - 红石电台](zhi-ling-ji-chu-zhi-shi/zhi-ling-hong-shi-dian-tai.md)
 * [附魔 - 基础知识](fu-mo-ji-chu-zhi-shi/README.md)
   * [📓 附魔 - 古书](fu-mo-ji-chu-zhi-shi/fu-mo-gu-shu.md)
@@ -50,7 +51,6 @@
   * [🥵 设置图片](group-2/kuo-zhan-tan-suo-nei-rong/she-zhi-tu-pian.md)
   * [🔮 快问快答](group-2/kuo-zhan-tan-suo-nei-rong/kuai-wen-kuai-da.md)
   * [👬 社区公会申请事项](group-2/kuo-zhan-tan-suo-nei-rong/she-qu-gong-hui-shen-qing-shi-xiang.md)
-  * [〽️ 关于服务器 PRO 会员？](group-2/kuo-zhan-tan-suo-nei-rong/guan-yu-fu-wu-qi-pro-hui-yuan.md)
 
 ## Group 3
 

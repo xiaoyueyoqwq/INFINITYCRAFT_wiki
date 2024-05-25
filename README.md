@@ -44,9 +44,11 @@ INFINITYCRAFT 服务器是一个开放性的社区服务器
 
 服务器名称：INFINITYCRAFT服务器
 
-服务器官网：ifcserver.world
+服务器官网：[ifcserver.world](https://app.gitbook.com/o/BMKVmup4PX3pc4P0GNjA/s/uBnu3pgUwc9GV6fmkNJ9/)
 
-服务器卫星地图：http://web.ifcserver.world:20000
+服务器卫星地图：[http://web.ifcserver.world:20000](http://web.ifcserver.world:20000)
+
+服务器语音聊天频道：[https://mornin.fm/INFINITYCRAFT](https://mornin.fm/INFINITYCRAFT)
 
 服务器支持版本：1.14-1.20.4
 

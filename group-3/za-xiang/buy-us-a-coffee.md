@@ -8,7 +8,7 @@ description: INFINITYCRAFT需要玩家，也离不开玩家
 
 ## | 资金支持
 
-1\. 访问我们的[官网](https://app.gitbook.com/o/BMKVmup4PX3pc4P0GNjA/s/uBnu3pgUwc9GV6fmkNJ9/)或[afdian主页](https://afdian.net/a/INFINITYCRAFT?tab=shop)开通[PRO会员](../../group-2/kuo-zhan-tan-suo-nei-rong/guan-yu-fu-wu-qi-pro-hui-yuan.md)来支持我们
+1\. 访问我们的[官网](https://app.gitbook.com/o/BMKVmup4PX3pc4P0GNjA/s/uBnu3pgUwc9GV6fmkNJ9/)或[afdian主页](https://afdian.net/a/INFINITYCRAFT?tab=shop)开通[PRO会员](../../guan-yu-fu-wu-qi-pro-hui-yuan.md)来支持我们
 
 2.在服务器Q群中找到管理员xiaoyueyoqwq或者STaRJiminy私聊购买 PRO 会员
 
