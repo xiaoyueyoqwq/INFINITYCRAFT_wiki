@@ -1,7 +1,8 @@
 # Table of contents
 
 * [🎯 欢迎访问INFINITYCRAFT社区文档](README.md)
-* [⛔ 封禁榜](feng-jin-bang.md)
+* [⛔ 封禁榜 (开户记录)](feng-jin-bang-kai-hu-ji-lu.md)
+* [💾 前置模组 (必看)](qian-zhi-mo-zu-bi-kan.md)
 
 ## Group 1
 
@@ -9,7 +10,6 @@
   * [📝 基本守则](group-1/ru-men/ji-ben-shou-ze.md)
   * [⚖️ 审核细则](group-1/ru-men/shen-he-xi-ze.md)
   * [⚔️ 加入服务器](group-1/ru-men/jia-ru-fu-wu-qi.md)
-  * [💾 模组整合包](group-1/ru-men/mo-zu-zheng-he-bao.md)
 
 ***
 
