@@ -12,7 +12,7 @@ description: 这个更新是献给DveawJ的！
 
 <figure><img src="https://4782.kstore.space/wiki_gif/%E8%80%90%E6%91%94%E7%8E%8B%E9%99%84%E9%AD%94%E4%B9%A6.png?password=f7f81aef93b8be212be7de994b010869-1715967640239" alt=""><figcaption><p>孩子们，这是我在天堂给你们寄的礼物</p></figcaption></figure>
 
-* 鞘翅加速附魔书\[：飞行时按住SHIFT获得短暂的飞行加速
+* 鞘翅加速附魔书\[I-IV]：飞行时按住SHIFT获得短暂的飞行加速
 
 <figure><img src="https://4782.kstore.space/wiki_gif/%E9%9E%98%E7%BF%85%E5%8A%A0%E9%80%9F%E9%99%84%E9%AD%94%E4%B9%A6.png?password=c8eb2e3b7b77a9a4b86cee0a2b0ca38f-1715967919629" alt=""><figcaption></figcaption></figure>
 
