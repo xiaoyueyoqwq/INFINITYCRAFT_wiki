@@ -58,3 +58,8 @@
 * [杂项](group-3/za-xiang/README.md)
   * [🔑 常见问题解答](group-3/za-xiang/chang-jian-wen-ti-jie-da.md)
   * [❤️ Buy us a coffee!](group-3/za-xiang/buy-us-a-coffee.md)
+
+## Group 4
+
+* [FUTURE ACTION!](group-4/future-action/README.md)
+  * [🔝 指令 - At Me!](group-4/future-action/zhi-ling-at-me.md)
