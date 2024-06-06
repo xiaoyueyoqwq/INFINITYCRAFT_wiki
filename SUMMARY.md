@@ -50,7 +50,7 @@
 * [扩展 - 探索内容](group-2/kuo-zhan-tan-suo-nei-rong/README.md)
   * [🗿 交易所村民优化](group-2/kuo-zhan-tan-suo-nei-rong/jiao-yi-suo-cun-min-you-hua.md)
   * [🥵 设置图片](group-2/kuo-zhan-tan-suo-nei-rong/she-zhi-tu-pian.md)
-  * [🔮 快问快答](group-2/kuo-zhan-tan-suo-nei-rong/kuai-wen-kuai-da.md)
+  * [⁉️ 快问快答](group-2/kuo-zhan-tan-suo-nei-rong/kuai-wen-kuai-da.md)
   * [👬 社区公会申请事项](group-2/kuo-zhan-tan-suo-nei-rong/she-qu-gong-hui-shen-qing-shi-xiang.md)
 
 ## Group 3
@@ -63,3 +63,10 @@
 
 * [FUTURE ACTION!](group-4/future-action/README.md)
   * [🔝 指令 - At Me!](group-4/future-action/zhi-ling-at-me.md)
+  * [卷轴 - 基础知识](group-4/future-action/juan-zhou-ji-chu-zhi-shi/README.md)
+    * [🔮 纸莎草卷轴](group-4/future-action/juan-zhou-ji-chu-zhi-shi/zhi-suo-cao-juan-zhou.md)
+    * [🛏️ 传送卷轴 - 家](group-4/future-action/juan-zhou-ji-chu-zhi-shi/chuan-song-juan-zhou-jia.md)
+    * [🎭 传送卷轴 - 不稳定](group-4/future-action/juan-zhou-ji-chu-zhi-shi/chuan-song-juan-zhou-bu-wen-ding.md)
+    * [🍃 传送卷轴 - 出生点](group-4/future-action/juan-zhou-ji-chu-zhi-shi/chuan-song-juan-zhou-chu-sheng-dian.md)
+    * [💀 传送卷轴 - 死亡点](group-4/future-action/juan-zhou-ji-chu-zhi-shi/chuan-song-juan-zhou-si-wang-dian.md)
+    * [🧲 传送卷轴 - 磁石](group-4/future-action/juan-zhou-ji-chu-zhi-shi/chuan-song-juan-zhou-ci-shi.md)
