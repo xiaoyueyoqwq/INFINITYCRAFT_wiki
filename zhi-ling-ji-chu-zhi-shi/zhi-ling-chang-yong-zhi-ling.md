@@ -12,9 +12,3 @@ description: 比如/gamemode creative？开玩笑的
 | /w <玩家名>        | 向某位玩家私聊                    |
 | /sit /lay /spin | /坐下/躺下/开转（？ni xian kai de） |
 | /co i           | 查询方块信息（左右键均可用）             |
-
-{% hint style="info" %}
-目前以上的大部分命令已经整合到了服务器菜单中
-
-可使用命令 /cd 打开预览
-{% endhint %}
