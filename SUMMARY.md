@@ -21,7 +21,6 @@
   * [♨️ 功能 - 信标电梯](gong-neng-ji-chu-zhi-shi/gong-neng-xin-biao-dian-ti.md)
 * [指令 - 基础知识](zhi-ling-ji-chu-zhi-shi/README.md)
   * [🔧 指令 - 常用指令](zhi-ling-ji-chu-zhi-shi/zhi-ling-chang-yong-zhi-ling.md)
-  * [🤷 指令 - 查找物品](zhi-ling-ji-chu-zhi-shi/zhi-ling-cha-zhao-wu-pin.md)
 
 ## 杂项
 
@@ -74,4 +73,5 @@
   * [🔞 指令 - 发送图片](yi-cun-dang-de-gong-neng/lie-biao/zhi-ling-fa-song-tu-pian.md)
   * [👷 功能 - 一键整理](yi-cun-dang-de-gong-neng/lie-biao/gong-neng-yi-jian-zheng-li.md)
   * [♻️ 功能 - 快捷播种](yi-cun-dang-de-gong-neng/lie-biao/gong-neng-kuai-jie-bo-zhong.md)
-  * [🔑 功能 - 查找村民的工作方块](yi-cun-dang-de-gong-neng/lie-biao/gong-neng-cha-zhao-cun-min-de-gong-zuo-fang-kuai.md)
+  * [🔑 功能 - 查找村民的工作方块](gong-neng-ji-chu-zhi-shi/gong-neng-cha-zhao-cun-min-de-gong-zuo-fang-kuai.md)
+  * [🤷 指令 - 查找物品](yi-cun-dang-de-gong-neng/lie-biao/zhi-ling-cha-zhao-wu-pin.md)
