@@ -21,6 +21,7 @@
   * [♨️ 功能 - 信标电梯](gong-neng-ji-chu-zhi-shi/gong-neng-xin-biao-dian-ti.md)
 * [指令 - 基础知识](zhi-ling-ji-chu-zhi-shi/README.md)
   * [🔧 指令 - 常用指令](zhi-ling-ji-chu-zhi-shi/zhi-ling-chang-yong-zhi-ling.md)
+  * [👆 指令 - MineBBS顶贴](zhi-ling-ji-chu-zhi-shi/zhi-ling-minebbs-ding-tie.md)
 
 ## 杂项
 
